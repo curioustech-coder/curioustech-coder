@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, welcome! 
+
+> [!WARNING]
+> This is a place of learning. Foolishness is to be expected 
 
 <!--
 **curioustech-coder/curioustech-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
