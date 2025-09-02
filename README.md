@@ -7,9 +7,9 @@
 
 ## About Me 
 
-**Species:** Human 
-**Habitat:** Earth
-**Hobbies:** Overthinking and stuff.... and watching anime
+- **Species:** Human 
+- **Habitat:** Earth
+- **Hobbies:** Overthinking and stuff.... and watching anime
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Learnings  <!-- TODO: dynamically update this section after second brain is established
+## Learnings  <!-- TODO: dynamically update this section after second brain is established -->
 
 > [!NOTE]
 > Guaranteed to change more frequently and faster than this section will be updated.
